@@ -26,4 +26,4 @@ I do not see myself working on a Forge version of Continuity for two main reason
 
 [Modrinth Page](https://modrinth.com/mod/continuity)
 
-[Discord](https://discord.gg/7rnTYXu) 
+[Discord](https://discord.gg/7rnTYXu)  
